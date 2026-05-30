@@ -1,68 +1,58 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Ravii%20%E2%80%94%20Lucky2917&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Ravi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there%2C+I'm+Ravi+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%9A%80;I+turn+ideas+into+websites+%F0%9F%92%BB;React+%2B+Node+%2B+PHP+%2B+AWS+%E2%9A%A1;181+contributions+%26+still+grinding+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&width=600&lines=Hey%2C+I'm+Ravi;Full-Stack+Web+Dev;I+turn+ideas+into+websites;React+%2B+Node+%2B+PHP+%2B+AWS;still+grinding" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views + Followers badges -->
 <img src="https://komarev.com/ghpvc/?username=lucky2917&style=for-the-badge&color=667eea&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/lucky2917?tab=followers">
 <img src="https://img.shields.io/github/followers/lucky2917?style=for-the-badge&color=764ba2&labelColor=667eea&label=FOLLOWERS" alt="Followers"/>
 </a>
-&nbsp;
-<img src="https://img.shields.io/badge/he%2Fhim-pronouns-blueviolet?style=for-the-badge" alt="he/him"/>
 
 </div>
 
 ---
 
-## 🧠 Who Am I?
+## about me
 
-```ts
-const ravi = {
-  name: "Ravii (Ravi)",
-  handle: "@lucky2917",
-  location: "📍 Jalandhar, India",
-  role: "Full-Stack Web Developer",
-  openTo: ["Full-time roles", "Freelance", "Collaborations"],
-  currentFocus: "Building production-grade web apps that solve real problems",
-  philosophy: "Don't just code — engineer experiences.",
-  funFact: "My rubber duck has heard more bugs than most senior devs 🦆",
-};
-```
+hey, i'm Ravi. full-stack web dev based in Jalandhar, India.
 
-> _"I'm not just looking for a job — I'm looking for a problem worth solving."_
+i mostly build web apps that actually do something useful. open to full-time roles, freelance, or just collabing on stuff that sounds fun.
+
+currently i'm into building real, production-ready apps instead of toy projects. i like shipping things and figuring out the messy parts as i go.
+
+fun fact: my rubber duck has heard way more bugs than most senior devs.
+
+> i'm not just looking for a job, i'm looking for a problem worth solving.
 
 ---
 
-## 🚀 What I Build
+## stuff i've built
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="50%">
 
-### 🏦 Zentrade — Paper Trading Simulator
+### Zentrade (paper trading sim)
 [![Zentrade](https://img.shields.io/badge/VIEW%20PROJECT-Zentrade-667eea?style=for-the-badge&logo=github)](https://github.com/lucky2917/Zentrade)
 
-Full-stack **stock trading simulator** with real-time data, live PnL, Google OAuth, and a glassmorphism UI. Think Zerodha — but where losses are free lessons.
+a stock trading sim with real-time data, live PnL, Google login, and a clean glassy UI. kinda like Zerodha, except losing money is free.
 
 `React` `Node.js` `Socket.io` `PostgreSQL` `Redis` `Framer Motion`
 
 </td>
 <td align="center" width="50%">
 
-### 🎯 SkillHire — AI Job Matching Platform
+### SkillHire (job matching)
 [![SkillHire](https://img.shields.io/badge/VIEW%20PROJECT-SkillHire-764ba2?style=for-the-badge&logo=github)](https://github.com/lucky2917/SkillHire)
 
-Recruitment platform with **blind skill assessments**, AI-driven job matching, and real-time analytics. Closing the gap between talent and opportunity.
+a hiring platform with blind skill tests, smart job matching, and live analytics. basically trying to connect the right people with the right jobs.
 
 `PHP` `MySQL` `AI Matching` `OTP Auth` `AWS EC2`
 
@@ -71,22 +61,22 @@ Recruitment platform with **blind skill assessments**, AI-driven job matching, a
 <tr>
 <td align="center" width="50%">
 
-### 🏟️ BYG — Book Your Game
+### BYG (book your game)
 [![BYG](https://img.shields.io/badge/VIEW%20PROJECT-BYG-0f9d58?style=for-the-badge&logo=github)](https://github.com/lucky2917/byg_)
 
-Sports arena booking platform — 25+ arenas, OTP-based auth, dynamic slot pricing, add-ons, and a full admin revenue dashboard. **Deployed live on AWS EC2.**
+sports arena booking app. 25+ arenas, OTP login, slot pricing that changes, add-ons, and an admin dashboard for revenue. it's live on AWS.
 
 `PHP` `MySQL` `Tailwind CSS` `PHPMailer` `AWS EC2`
 
 </td>
 <td align="center" width="50%">
 
-### 🛒 Frioo — E-Commerce Platform
+### Frioo (online store)
 [![Frioo](https://img.shields.io/badge/VIEW%20PROJECT-Frioo-e8711a?style=for-the-badge&logo=github)](https://github.com/lucky2917/frioo-ecommerce)
 
-A full e-commerce experience with cart, checkout, product listings, and smooth UX. Clean, fast, and built to convert.
+a full online store with cart, checkout, product pages, and a smooth flow. nothing fancy, just fast and easy to use.
 
-`JavaScript` `Node.js` `Express` `MongoDB`
+`JavaScript` `Node.js` `Express` `Postgres`
 
 </td>
 </tr>
@@ -95,11 +85,11 @@ A full e-commerce experience with cart, checkout, product listings, and smooth U
 
 ---
 
-## 🛠️ Tech Stack
+## tech i use
 
 <div align="center">
 
-### 🎨 Frontend
+### frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -107,21 +97,21 @@ A full e-commerce experience with cart, checkout, product listings, and smooth U
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-### ⚙️ Backend
+### backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
 
-### 🗄️ Databases & Cloud
+### db and cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### 🔧 Tools
+### tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -132,7 +122,7 @@ A full e-commerce experience with cart, checkout, product listings, and smooth U
 
 ---
 
-## 📊 GitHub Stats
+## my github stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lucky2917&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" height="170" alt="stats graph"/>
@@ -149,44 +139,35 @@ A full e-commerce experience with cart, checkout, product listings, and smooth U
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=lucky2917&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8" alt="trophy"/>
-</div>
-
----
-
-## 💡 My Dev Philosophy
+## how i think about code
 
 <div align="center">
 
-| What I Believe | How It Shows |
+| what i believe | how it shows up |
 |---|---|
-| 🎯 **Ship it, then perfect it** | 181 commits in the last year |
-| 🔥 **Real problems deserve real solutions** | Zentrade, SkillHire, BYG — each solves a tangible pain |
-| 🌱 **Always be learning** | PHP → JS → React → Node → AWS — still going |
-| 🤝 **Code is communication** | Clean commits, documented READMEs, readable code |
-| 🚀 **Deployment > local demos** | All major projects live on production servers |
+| ship it first, fix it later | tons of commits over the year |
+| real problems need real fixes | Zentrade, SkillHire, BYG all solve actual stuff |
+| always learning | went PHP, then JS, React, Node, AWS, still going |
+| code is just talking | clean commits, decent docs, readable code |
+| live beats local | all my main projects run on real servers |
 
 </div>
 
 ---
 
-## 📬 Let's Connect
+## say hi
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-667eea?style=for-the-badge)](https://ravi-portfolio-web.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-667eea?style=for-the-badge)](https://ravi-portfolio-web.vercel.app/)
 &nbsp;
-[![Email](https://img.shields.io/badge/📧_Email-Reach_Out-764ba2?style=for-the-badge)](mailto:arjun.gandreddi2005@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-764ba2?style=for-the-badge)](mailto:arjun.gandreddi2005@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-@lucky2917-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucky2917)
+[![GitHub](https://img.shields.io/badge/GitHub-lucky2917-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucky2917)
 
 <br/>
 
-_I'm actively looking for opportunities where I can build meaningful products and grow fast._
-_If you've read this far — I think we'd work well together. Let's talk._ 🤝
+i'm looking for places where i can build real stuff and actually get better fast. if you read this far, we'd probably get along. hit me up.
 
 </div>
 
@@ -196,6 +177,6 @@ _If you've read this far — I think we'd work well together. Let's talk._ 🤝
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%"/>
 
-<sub>⚡ Built with caffeine, curiosity, and a lot of <code>console.log</code> debugging | Last pushed: May 2026</sub>
+<sub>built with too much coffee and a lot of console.log</sub>
 
 </div>
